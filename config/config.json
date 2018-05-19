@@ -1,7 +1,7 @@
 {
     "development": {
       "username": "root",
-      "password": "password",
+      "password": "test",
       "database": "awair",
       "host": "127.0.0.1",
       "dialect": "mysql"
@@ -9,16 +9,16 @@
     "test": {
       "username": "root",
       "password": "password",
-      "database": "database_test",
+      "database": "database_production",
       "host": "127.0.0.1",
       "dialect": "mysql"
     },
     "production": {
-      "username": "root",
-      "password": "password",
-      "database": "database_production",
-      "host": "127.0.0.1",
+      "username": "cvf3d1s8s1zb96ce",
+      "password": "x6ludzvat3n53ve7",
+      "database": "tka5z9ehrta4q0rt",
+      "host": "ou6zjjcqbi307lip.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
       "dialect": "mysql"
     }
   }
-  
+   
