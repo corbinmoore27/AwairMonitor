@@ -20,7 +20,7 @@ var db = require("./models");
 // parse application/x-www-form-urlencoded
 app.use(bodyParser.urlencoded({ extended: true }));
 // parse application/json
-app.use(bodyParser.json());
+app.use(bodyParser.json()); 
 
 // Static directory
 app.use(express.static(__dirname + "/public"));
